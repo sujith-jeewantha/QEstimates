@@ -1,0 +1,38 @@
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\FINAL PROJECT NIBM.exe.config
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\FINAL PROJECT NIBM.exe
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\FINAL PROJECT NIBM.pdb
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\Guna.UI2.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL PROJECT NIBM.csprojAssemblyReference.cache
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.Properties.Resources.resources
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL PROJECT NIBM.csproj.GenerateResource.cache
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL PROJECT NIBM.csproj.CoreCompileInputs.cache
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL PROJECT NIBM.csproj.CopyComplete
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL PROJECT NIBM.exe
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL PROJECT NIBM.pdb
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.login.resources
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\circle_progressbar.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.loading.resources
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.MainForm.resources
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.users.resources
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL PROJECT NIBM.csproj.ResolveComReference.cache
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.AddPdf.resources
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.calculate.resources
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.adminMainForm.resources
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\ClosedXML.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\EPPlus.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\System.IO.Packaging.dll
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\ClosedXML.pdb
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\ClosedXML.xml
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\EPPlus.xml
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Nirasha\source\repos\FINAL PROJECT NIBM\FINAL PROJECT NIBM\obj\Debug\FINAL_PROJECT_NIBM.Output.resources
